@@ -1,6 +1,6 @@
 ### Hi there 👋, I'am Shaiful Islam
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-gnerator/images/banner.png)
 
 a Fronted Developer diving into the MERN stack. Skilled in React, JavaScript, Node.js, Express.js, and MongoDB, I'm on a mission to craft engaging web experiences.
 
